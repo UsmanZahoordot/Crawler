@@ -84,12 +84,6 @@ Store a local copy of these files for each site, so that you don’t have to fet
 After filtering restricted URLS, check if the newly extracted URLs are already crawled or not. The URLS that pass this test should be added to the frontier (make sure the URLS in frontier are also distinct). 
 1) ## Stopping the process
 You can stop the process based on number of URL, for example if you have crawler 1000 URLS then you can stop. 
-##
-## Note:
-- You do not have to design “Content-seen” module in this assignment.
-- The assignment is to be done individually.
-- You will have to submit your jupyter notebook. Your notebook must have the functions given in starter code. Andy other functions and variable can be added if required. 
-
 
 ## Reference
 
